@@ -8,13 +8,7 @@
     "dev": "nodemon server/server.js",
     "seed": "node seed/seedData.js"
   },
-  "keywords": [
-    "healthcare",
-    "hospital",
-    "patient-management",
-    "ai-triage",
-    "queue-management"
-  ],
+  "keywords": ["healthcare", "hospital", "patient-management", "ai-triage", "queue-management"],
   "author": "MEDICARE 360",
   "license": "MIT",
   "dependencies": {
